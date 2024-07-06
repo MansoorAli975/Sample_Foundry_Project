@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+//SEPOLIA_RPC_URL=https://eth-sepolia.g.alchemy.com/v2/yaSaFCcA5Rjpg_fdh0SFCRopkzelbwNC taken for alchemy.com by utube person, copied as site didnt work 
+//proper readme
+//integration test
+//programatic verification
+//push to github
